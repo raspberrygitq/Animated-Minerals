@@ -1,0 +1,9 @@
+{
+   "pack": {
+      "description": "Animated Minerals - by gitq",
+      "pack_format": 15,
+      "support_version": {
+         "min_inclusive": 15, "max_inclusive": 22
+      }
+   }
+}
